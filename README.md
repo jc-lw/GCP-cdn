@@ -1,5 +1,8 @@
 不包含CDN的流量，如果要防止CDN，可以用论坛脚本屏蔽所有CDN访问。真的永久，就是200G限制+CDN禁用，要不然每个月还会扣些钱
 
+https://github.com/jc-lw/GCP-cdn/edit/main/image.png
+
+
 ```
 sudo apt update
 
