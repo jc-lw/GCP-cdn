@@ -1,8 +1,13 @@
-下载依赖
+不包含CDN的流量，如果要防止CDN，可以用论坛脚本屏蔽所有CDN访问。真的永久，就是200G限制+CDN禁用，要不然每个月还会扣些钱
+
+```
 sudo apt update
 
-sudo apt install -y ipset curl
+```
 
+```
+sudo apt install -y ipset curl
+```
 
 关闭 CDN 流量
 
